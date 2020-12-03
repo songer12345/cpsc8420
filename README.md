@@ -1,2 +1,2 @@
 # cpsc8420
-This is for 8420 project
+This project is for course 8420 advanced machine learning
